@@ -6,6 +6,10 @@ Array.from(buttons).forEach((button)=>{
             String = eval(String);
            document.querySelector('input').value = String;
         }
+        else if(e.target.innerHTML =='ac'){
+            String = "";
+            document.querySelector('input').value = String;
+        }
         else{
         console.log(e.target)
         String = String + e.target.innerHTML;
