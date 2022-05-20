@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.text-center {
+
+    text-align: center;
+}
+
+.bg-red {
+    background: blue;
+    margin: auto;
+    max-width: 30vw;
+}
+
+.button {
+
+    border-radius: 2px;
+    color:red;
+    padding: 18px;
+}
