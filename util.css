@@ -14,8 +14,10 @@
     justify-content: center;
 }
 
-.items-center{
+.items-center {
     align-items: center;
 }
 
-.flex-col {}
+.flex-col {
+    
+}
