@@ -6,9 +6,11 @@
 .bg-red {
     background: blue;
     margin: auto;
-    max-width: 30vw 40vw;
+    max-width: 30vw;
 }
-
+.mx-auto{
+    margin: auto;
+}
 .flex {
     display: flex;
     justify-content: center;
@@ -17,10 +19,8 @@
 .items-center {
     align-items: center;
 }
-.row{
-    margin: 12px 0;
-}
 
 .flex-col {
+    flex-direction: column;
 
 }
