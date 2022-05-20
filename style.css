@@ -1,16 +1,19 @@
 html,
 body {
+    background-image: url("back.jpg");
     height: 100%;
     width: 100%;
 }
 
 .button {
+
+    font-size: 20px;
     width: 37px;
     padding: 30px;
-    margin: 0px 5px;
+    margin: 1px 2px;
     color:blue;
     border: 2px solid red;
-    border-radius: 9px;
+    border-radius: 20px;
     cursor: pointer;
 
 }
@@ -22,7 +25,7 @@ body {
     color:green;
     font-size: 20px;
     margin: 0;
-    padding: 15px 30px;
+    padding: 10px 20px;
     border: 2px solid green;
     border-radius: 10px;
 }
