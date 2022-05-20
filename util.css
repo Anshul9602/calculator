@@ -9,16 +9,12 @@
     max-width: 30vw;
 }
 
-.button {
-
-    border-radius: 2px;
-    color: red;
-    padding: 18px;
-}
-
 .flex {
     display: flex;
     justify-content: center;
+}
+
+.items-center{
     align-items: center;
 }
 
